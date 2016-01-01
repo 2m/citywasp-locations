@@ -1,0 +1,1130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.886874,
+          54.864142
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Autosalonas \"Krasta Auto Kaunas\"",
+        "address": "Veiverių g. 150B, Kaunas, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.278609,
+          54.713414
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Autosalonas \"Krasta Auto Vilnius\"",
+        "address": "Ozo g. 10A, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.188555,
+          55.680342
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Autosalonas \"Krasta Auto Klaipėda\"",
+        "address": "Šilutės pl. 83, Klaipėda, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29351,
+          54.71109
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Šiaurės miestelio technologijų parkas",
+        "address": "J. Galvydžio g. 3, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.291997,
+          54.709746
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "PC \"Maxima\", Ulonų g.",
+        "address": "Ulonų g. 5, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.240225,
+          54.727453
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "PC \"Maxima\", Ukmergės g.",
+        "address": "Ukmergės g. 256, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.278179,
+          54.696775
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "VC \"Vilniaus verslo uostas\"",
+        "address": "Giedraičių g. 3, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.227018,
+          54.707325
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "PC \"Mada\"",
+        "address": "Viršuliškių g. 42, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.237758,
+          54.671949
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "\"Ergo\", Geležinio Vilko g.",
+        "address": "Geležinio Vilko g. 6A, Vilnius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.315858,
+          54.703904
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "PC \"Maxima\", V. Grybo g.",
+        "address": "V. Grybo g. 21, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25148,
+          54.682293
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Viešbutis „Crowne Plaza Vilnius“",
+        "address": "M. K. Čiurlionio g. 84B, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.316738,
+          54.650734
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Viešbutis \"Ibis Styles Vilnius\"",
+        "address": "Minsko pl. 14, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.259259,
+          54.68664
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "VC \"Verslo trikampis\"",
+        "address": "J. Jasinskio g. 16A, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.259342,
+          54.698996
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Degalinė \"Lukoil\" šalia PC \"Panorama\"",
+        "address": "Saltoniškių g. 12, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.284538,
+          54.670891
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Vilniaus geležinkelio stotis",
+        "address": "Geležinkelio g. 16, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27873,
+          54.686766
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "VC \"2000\"",
+        "address": "Jogailos g. 3, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.206032,
+          54.669451
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "VGPU ligoninė, Lazdynai",
+        "address": "Šiltnamių g. 29, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.283269,
+          54.680784
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "S. Neries gimnazija, \"UniPark\" aikštelė",
+        "address": "Dominikonų g. 4, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.267594,
+          54.67753
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "T. Ševčenkos g. 14 / Švitrigailos g.",
+        "address": "T. Ševčenkos g. 14 / Švitrigailos g., Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.264923,
+          54.754097
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Mokslininkų g. 9A",
+        "address": "Mokslininkų g. 9A, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.283339,
+          54.704035
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "PC \"Maxima\", Žalgirio g.",
+        "address": "Žalgirio g. 105 / Kalvarijų g. 98, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.264707,
+          54.693408
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "VC \"Vertas\"",
+        "address": "Gynėjų g. 16, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.22168,
+          54.709471
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "PC \"Maxima\", Viršuliškių g.",
+        "address": "Viršuliškių g. 30, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.21372,
+          54.702212
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "PC \"Prisma\", Viršuliškių skg.",
+        "address": "Viršuliškių skg. 28, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.275046,
+          54.694127
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "PC \"VCUP\"",
+        "address": "Upės g. 5, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.268925,
+          54.681951
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Šv. Konstantino ir Michailo cerkvė",
+        "address": "Jono Basanavičiaus g. 27, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.260079,
+          54.690549
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Lietuvos Respublikos Seimas",
+        "address": "Gedimino pr. 53, Vilnius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.301149,
+          54.710093
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "PC \"Banginis\"",
+        "address": "P. Lukšio g. 34, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.246276,
+          54.731418
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "PC \"Mandarinas\"",
+        "address": "Ateities g. 91, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.300033,
+          54.719519
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "\"Impuls\" sporto klubas, Kareivių g.",
+        "address": "Kareivių g. 14, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.273793,
+          54.739661
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "Jeruzalės g. 4",
+        "address": "Jeruzalės g. 4, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.22977,
+          54.715926
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "PC \"Laisvė\"",
+        "address": "Rygos g. 2, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.260315,
+          54.695386
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "VC \"Green Hall\"",
+        "address": "Upės g. 21, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28601,
+          54.678105
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "Vilniaus Rotušės aikštė",
+        "address": "Vokiečių g. 2, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.235746,
+          54.706694
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "SEB Arena",
+        "address": "Ąžuolyno g. 7, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28512,
+          54.686715
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Vilniaus katedra",
+        "address": "Ž. Liauksmino g. 6, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.261366,
+          54.710943
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "PC \"Akropolis\", Maxima XXX (1) įėjimas",
+        "address": "Ozo g. 25, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.221348,
+          54.735223
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "PC \"Maxima\", Gabijos g.",
+        "address": "Gabijos g. 30, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.279026,
+          54.727949
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "PC \"Maxima\", Didlaukio g.",
+        "address": "Didlaukio g. 1, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.284128,
+          54.676216
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Rūdninkų skveras",
+        "address": "Rūdninkų g. 18, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.280228,
+          54.681813
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "S. Moniuškos skveras",
+        "address": "Vilniaus g. 39, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.187305,
+          54.709525
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "PC \"Pupa\" Priegliaus g. 1",
+        "address": "Pilaitės pr. 31, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.245488,
+          54.698629
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Žveryno autobusų žiedas, Sėlių g.",
+        "address": "Sėlių g. 39, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.270464,
+          54.65645
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "Autosalonas \"Porsche\"",
+        "address": "Dariaus ir Girėno g. 15, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.320976,
+          54.724369
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "Nemenčinės plentas 2",
+        "address": "Nemenčinės plentas 2, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.256318,
+          54.670604
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "VC \"Bitė\"",
+        "address": "Žemaitės g. 15, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.341857,
+          54.725782
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Plytinės g. 7A",
+        "address": "Plytinės g. 7A Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.250294,
+          54.715909
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Šeškinės g. 22",
+        "address": "Šeškinės g. 22, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.280061,
+          54.644165
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Vilniaus oro uostas, VIP aikštelė",
+        "address": "Rodūnios kelias 2, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.277347,
+          54.688994
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Lietuvos operos ir baleto teatras",
+        "address": "A. Vienuolio g. 1-3, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.278039,
+          54.679165
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Lietuvos kino teatras, Pylimo g.",
+        "address": "Pylimo g. 17, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.259505,
+          54.732441
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "Mykolo Romerio universitetas",
+        "address": "Ateities g. 20 / Didlaukio g. 69, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.293183,
+          54.68479
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Bernardinų sodas",
+        "address": "Maironio g. 2, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.268616,
+          54.688769
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "Lietuvos muzikos ir teatro akademija",
+        "address": "V. Kudirkos gatvė 6, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.279386,
+          54.696165
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Vilniaus miesto savivaldybė",
+        "address": "Lvovo g. 25, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.229904,
+          54.737007
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "PC \"Norfa XXL\"",
+        "address": "Ukmergės g. 298 Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.298392,
+          54.681009
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "Užupio skveras",
+        "address": "Užupio g. 30, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.288336,
+          54.690516
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Energetikos ir technikos muziejus",
+        "address": "Rinktinės g. 2, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.275008,
+          54.686567
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "name": "Nesė Pramogų bankas",
+        "address": "A. Stulginskio g. 220, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.273522,
+          54.678271
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "PC \"Maxima\", Mindaugo g.",
+        "address": "Mindaugo g. 11, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.281225,
+          54.689692
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "Tilto g. 33",
+        "address": "Tilto g. 33, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.280673,
+          54.753112
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "VU ligoninės Santariškių klinikos",
+        "address": "P. Baublio g. 2A, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.287212,
+          54.673803
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "Bazilijonų g. 3",
+        "address": "Bazilijonų g. 3, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.283468,
+          54.694715
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "name": "Lvovo g. 12 (prieš Holiday Inn Vilnius)",
+        "address": "Lvovo g. 12, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.189258,
+          54.706812
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "\"Lemon Gym\" sporto klubas, Vydūno g.",
+        "address": "Vydūno g. 2, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.255031,
+          54.679513
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "J. Basanavičiaus vid. mokykla",
+        "address": "S. Konarskio g. 4A, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.301665,
+          54.697566
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Žirmūnų g. 1E",
+        "address": "Žirmūnų g. 1 E, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.242811,
+          54.721868
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "PC \"Senukai\", Ukmergės g.",
+        "address": "Ukmergės g. 244, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.288679,
+          54.723997
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "name": "\"Victoria Gym\" Sporto klubas, Trinapolio g.",
+        "address": "Trinapolio g. 9, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.293097,
+          54.728901
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "name": "Verkių parkas",
+        "address": "Verkių g. 68, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.302297,
+          54.712338
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "name": "PC \"Rimi\", Žirmūnų g.",
+        "address": "Žirmūnų g. 64, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.257273,
+          54.674748
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "name": "PC \"Rimi\", Savanorių pr. (PC stogas)",
+        "address": "Savanorių pr. 16, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.285404,
+          54.72001
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "name": "\"Technopolis\" biurų parkas, J.Balčikonio g.",
+        "address": "J. Balčikonio gatvė 3, Vilnius, Lietuva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.222722,
+          54.742173
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "name": "VC \"One\"",
+        "address": "Ukmergės g. 322, Vilnius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.259277,
+          54.686022
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "name": "\"EIKA\" verslo centras",
+        "address": "A. Goštauto g. 40A, Vilnius, Lietuva"
+      }
+    }
+  ]
+}
