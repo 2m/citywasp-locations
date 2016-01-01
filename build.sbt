@@ -1,7 +1,9 @@
 organization := "citywasp"
 name := "citywasp-locations"
 
-autoScalaLibrary := false
+// no scala code here, so:
+autoScalaLibrary := false // do not add scala as a dependency
+crossPaths := false       // do not use scala version in artifact names
 
 enablePlugins(GitVersioning)
 git.useGitDescribe := true
